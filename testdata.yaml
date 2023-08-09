@@ -1,0 +1,10 @@
+address: https://test-stand.gb.ru/
+browser: firefox
+sleep_time: 1
+wait: 3
+login: login
+password: password
+test_text: Testing post 987
+api_login: https://test-stand.gb.ru/gateway/login
+api_posts: https://test-stand.gb.ru/api/posts
+other_post: Post title
