@@ -1,5 +1,5 @@
-pytest
-PyYAML
-selenium
-requests
+pytest~=7.4.0
+PyYAML~=6.0.1
+selenium~=4.11.2
+requests~=2.31.0
 webdriver-manager
